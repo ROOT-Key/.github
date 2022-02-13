@@ -1,4 +1,4 @@
-<h2 align="center"> Hi there, We're NOT </a> 👋 </h2>
+<h2 align="center"> Hi there, We're N.O.T </a> 👋 </h2>
 
 <h3 align="center"> We are a cybersecurity company that provides blockchain-based security solutions </h3> 
 
