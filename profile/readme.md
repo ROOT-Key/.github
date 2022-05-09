@@ -20,4 +20,4 @@ Blockchain has opened the door to transparency, persistence and security of data
 
 <a href="https://www.instagram.com/notcybersec/"><img align="left" src="https://github.com/NOT-CyberSec/.github/blob/34df78ed05ab90ffc476fb47ecd2c509e3f10e6c/img/instagram.svg" alt="NOTCyberSec | Instagram" width="32px"/></a>
 
-<a href="https://www.twitter.com/notcybersec/"><img align="left" src="https://github.com/NOT-CyberSec/.github/blob/93256aff5d2bc1953f7eacee17dab78749a7d37b/img/twitter.svg" alt="NOTCyberSec | Twitter" width="32px"/></a>
+<a href="https://www.twitter.com/notcybersec/"><img align="left" src="https://github.com/NOT-CyberSec/.github/blob/main/img/twitter.svg" alt="NOTCyberSec | Twitter" width="32px"/></a>
