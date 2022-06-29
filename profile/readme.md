@@ -10,11 +10,11 @@ Blockchain has opened the door to transparency, persistence and security of data
 
 
 ## 🖥️ Our website:
-<a href="https://notcybersec.com"><img align="left" src="https://github.com/NOT-CyberSec/.github/blob/93256aff5d2bc1953f7eacee17dab78749a7d37b/img/isometrico.png" alt="NOTCyberSec | LinkedIn" width="32px"/></a>
+<a href="https://notcybersec.com"><img align="left" src="https://github.com/NOT-CyberSec/Designs/blob/designs/%23NOT/png/NOT_Icon-Cores-Preto.png" alt="NOTCyberSec | LinkedIn" width="45px"/></a>
 </br>
 
 ## 🤝 Where can you find us:
-<a href="https://www.linkedin.com/company/notcybersec?trk=profile-badge"><img align="left" src="https://github.com/NOT-CyberSec/.github/blob/d783fc6b0b0459e9ff696959f9a07cdbddbbe603/img/linkedin.svg" alt="NOTCyberSec | LinkedIn" width="32px"/></a>
+<a href="https://www.linkedin.com/company/notcybersec?trk=profile-badge"><img align="left" src="https://github.com/GoncaloGil0/GoncaloGil0/blob/7d707718956f48b78a53c911726c6e41cc95d3ab/img/linkedin(1).png" alt="NOTCyberSec | LinkedIn" width="35px"/></a>
 
 <a href="https://www.instagram.com/notcybersec/"><img align="left" src="https://github.com/NOT-CyberSec/.github/blob/34df78ed05ab90ffc476fb47ecd2c509e3f10e6c/img/instagram.svg" alt="NOTCyberSec | Instagram" width="32px"/></a>
 
