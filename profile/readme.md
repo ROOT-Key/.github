@@ -3,13 +3,12 @@
 </p>
 
 <h3 align="center"> Hi there, We're NOTCyberSec </a> 👋 </h3>
-<h2 align="center"> Building security from the ground up </h2> 
+<h2 align="center"></h2> 
 
 In a reality where computer data is one of the most precious assets and cyber-attacks are increasingly frequent, [NOTCyberSec](https://notcybersec.com) aims to ensure the veracity, integrity and confidentiality of all data. With this focus, we have developed a system where security is the premise. Your data is safe in its creation, treatment and management. 
 
 Blockchain has opened the door to transparency, persistence and security of data, we have opened the door to automation, validation and management of it.
 
-<!-- <h3 align="center"> NFT's of things </h3> -->
 
 ## 🖥️ Our website:
 <a href="https://notcybersec.com"><img align="left" src="https://github.com/NOT-CyberSec/.github/blob/93256aff5d2bc1953f7eacee17dab78749a7d37b/img/isometrico.png" alt="NOTCyberSec | LinkedIn" width="32px"/></a>
