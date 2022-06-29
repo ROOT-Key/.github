@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://notcybersec.com" target="_blank" rel="noreferrer"><img src="https://github.com/NOT-CyberSec/.github/blob/f31ea38aa66a1783ac52127c348079e4f9e5c409/img/bannerGit.jpeg" alt="banner"></a>
+  <a href="https://notcybersec.com" target="_blank" rel="noreferrer"><img src="https://github.com/NOT-CyberSec/.github/blob/b2f920552888a534fb9aef78d5f1d56ac3c6c714/img/bannerGit.png" alt="banner"></a>
 </p>
 
 <h3 align="center"> Hi there, We're NOTCyberSec </a> 👋 </h3>
