@@ -2,8 +2,7 @@
   <a href="https://notcybersec.com" target="_blank" rel="noreferrer"><img src="https://github.com/NOT-CyberSec/.github/blob/b2f920552888a534fb9aef78d5f1d56ac3c6c714/img/bannerGit.png" alt="banner"></a>
 </p>
 
-<h3 align="center"> Hi there, We're NOTCyberSec </a> 👋 </h3>
-<h2 align="center"></h2> 
+<h2 align="center"> Hi there, We're NOTCyberSec </a> 👋 </h2>
 
 In a reality where computer data is one of the most precious assets and cyber-attacks are increasingly frequent, [NOTCyberSec](https://notcybersec.com) aims to ensure the veracity, integrity and confidentiality of all data. With this focus, we have developed a system where security is the premise. Your data is safe in its creation, treatment and management. 
 
