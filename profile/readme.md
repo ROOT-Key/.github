@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://rootkey.ai" target="_blank" rel="noreferrer"><img src="https://github.com/ROOT-Key/Designs/blob/7b2235ef9521e242e116e5e3b9adfc4529c88f3d/Redes-Sociais/LinkedIn/Empresa/banner_linkedin.png" alt="banner"></a>
+  <a href="https://rootkey.ai" target="_blank" rel="noreferrer"><img src="https://media.notcybersec.com/Email/banner/banner_github.png" alt="banner"></a>
 </p>
 
 <h2 align="center"> Hi there, We're ROOTKey </a> 👋 </h2>
@@ -14,3 +14,9 @@ Blockchain has opened the door to transparency, persistence and security of data
 <a href="https://www.instagram.com/_rootkey/"><img align="left" src="https://github.com/NOT-CyberSec/.github/blob/34df78ed05ab90ffc476fb47ecd2c509e3f10e6c/img/instagram.svg" alt="ROOTKey | Instagram" width="32px"/></a>
 
 <a href="https://twitter.com/_rootkey/"><img align="left" src="https://raw.githubusercontent.com/NOT-CyberSec/.github/290187c43a52eac52bdf38ac1b27733272b9e73a/img/twitter.svg" alt="ROOTKey | Twitter" width="32px"/></a>
+
+<a href="https://facebook.com/rootkey.0"><img align="left" src="https://media.notcybersec.com/Redes-Sociais/Logos/facebook-azul.png" alt="ROOTKey | Facebook" width="32px"/></a>
+
+<a href="https://t.me/+CvFbwUZ4bRNmMzBk"><img align="left" src="https://media.notcybersec.com/Redes-Sociais/Logos/telegram.png" alt="ROOTKey | Telegram" width="32px"/></a>
+
+<a href="https://linktr.ee/_rootkey"><img align="left" src="https://media.notcybersec.com/Redes-Sociais/Logos/linktree-cores.png" alt="ROOTKey | LinkTree" width="32px"/></a>
