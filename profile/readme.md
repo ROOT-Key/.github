@@ -17,6 +17,4 @@ Blockchain has opened the door to transparency, persistence and security of data
 
 <a href="https://facebook.com/rootkey.0"><img align="left" src="https://media.notcybersec.com/Redes-Sociais/Logos/facebook-azul.png" alt="ROOTKey | Facebook" width="32px"/></a>
 
-<a href="https://t.me/+CvFbwUZ4bRNmMzBk"><img align="left" src="https://media.notcybersec.com/Redes-Sociais/Logos/telegram.png" alt="ROOTKey | Telegram" width="32px"/></a>
-
 <a href="https://linktr.ee/_rootkey"><img align="left" src="https://media.notcybersec.com/Redes-Sociais/Logos/linktree-cores.png" alt="ROOTKey | LinkTree" width="32px"/></a>
