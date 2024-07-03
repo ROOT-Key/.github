@@ -1,20 +1,30 @@
-<p align="center">
-  <a href="https://rootkey.ai" target="_blank" rel="noreferrer"><img src="https://media.notcybersec.com/Email/banner/banner_github.png" alt="banner"></a>
-</p>
+<img src="https://www.media.notcybersec.com/docs/hero-dark.png" alt="ROOTKey Logo" width="100%" style="border: 0px solid #ccc; border-radius: 5px;">
 
-<h2 align="center"> Hi there, We're ROOTKey </a> 👋 </h2>
 
-In a reality where computer data is one of the most precious assets and cyber-attacks are increasingly frequent, [ROOTKey](https://rootkey.ai) aims to ensure the veracity, integrity and confidentiality of all data. With this focus, we have developed a system where security is the premise. Your data is safe in its creation, treatment and management. 
+## 🚀 About Us
 
-Blockchain has opened the door to transparency, persistence and security of data, we have opened the door to automation, validation and management of it.
+ROOTKey is a leading provider of advanced cybersecurity solutions, specializing in blockchain-based data integrity, identity management, and decentralized asset maintenance.
 
-## 🤝 Where can you find us:
-<a href="https://www.linkedin.com/company/rootkey"><img align="left" src="https://github.com/NOT-CyberSec/.github/blob/9cebb4bcf97d3be0a67b754225c181945755e2d3/img/linkedin.png" alt="ROOTKey | LinkedIn" width="35px"/></a>
+Visit our [website](https://www.rootkey.ai) for more information.
 
-<a href="https://www.instagram.com/_rootkey/"><img align="left" src="https://github.com/NOT-CyberSec/.github/blob/34df78ed05ab90ffc476fb47ecd2c509e3f10e6c/img/instagram.svg" alt="ROOTKey | Instagram" width="32px"/></a>
 
-<a href="https://twitter.com/_rootkey/"><img align="left" src="https://raw.githubusercontent.com/NOT-CyberSec/.github/290187c43a52eac52bdf38ac1b27733272b9e73a/img/twitter.svg" alt="ROOTKey | Twitter" width="32px"/></a>
 
-<a href="https://facebook.com/rootkey.0"><img align="left" src="https://media.notcybersec.com/Redes-Sociais/Logos/facebook-azul.png" alt="ROOTKey | Facebook" width="32px"/></a>
+## 📰 Connect with Us
 
-<a href="https://linktr.ee/_rootkey"><img align="left" src="https://media.notcybersec.com/Redes-Sociais/Logos/linktree-cores.png" alt="ROOTKey | LinkTree" width="32px"/></a>
+- Follow us on [X](https://twitter.com/__rootkey/)
+- Connect on [LinkedIn](https://www.linkedin.com/company/rootkey)
+- Follow us on [Instagram](https://www.instagram.com/_rootkey/)
+
+## 🖥️ Documentation
+
+Explore our APIs and solutions:
+
+- [Platform API Documentation](https://docs.rootkey.ai/api-reference/platform/overview)
+- [DAMC API Documentation](https://docs.rootkey.ai/api-reference/damc/overview)
+
+## Get Involved
+
+We welcome contributions and feedback. Fork our repositories and open pull requests!
+
+Join our whatsapp [community](https://chat.whatsapp.com/IHM2Grue6sW4Wb6S8OLFNb) and help shape the future of cybersecurity.
+
