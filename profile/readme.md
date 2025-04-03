@@ -22,9 +22,3 @@ Explore our APIs and solutions:
 - [Platform API Documentation](https://docs.rootkey.ai/api-reference/platform/overview)
 - [DAMC API Documentation](https://docs.rootkey.ai/api-reference/damc/overview)
 
-## Get Involved
-
-We welcome contributions and feedback. Fork our repositories and open pull requests!
-
-Join our whatsapp [community](https://chat.whatsapp.com/IHM2Grue6sW4Wb6S8OLFNb) and help shape the future of cybersecurity.
-
