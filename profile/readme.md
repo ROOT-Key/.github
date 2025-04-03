@@ -1,4 +1,4 @@
-<img src="https://www.media.notcybersec.com/docs/hero-dark.png" alt="ROOTKey Logo" width="100%" style="border: 0px solid #ccc; border-radius: 5px;">
+<img src="https://www.media.notcybersec.com/metatags/metaBanner.png" alt="ROOTKey Logo" width="100%" style="border: 0px solid #ccc; border-radius: 5px;">
 
 
 ## 🚀 About Us
